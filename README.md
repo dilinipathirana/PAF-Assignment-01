@@ -3,9 +3,9 @@
 
 Team Members-
 
-Dilini H.O Pathirana  -IT16073838 (Login)
-Vishara Dilmi         -IT16161252  (User levels)
-Nirmani Palliyaguruge -IT16128064 ( Customer Registration)
+Dilini H.O Pathirana  -IT16073838 (Login) ,
+Vishara Dilmi         -IT16161252  (User levels) ,
+Nirmani Palliyaguruge -IT16128064 ( Customer Registration) ,
 Neranjana Wijethunga   -IT16109254 (Db Connections)
 
 
